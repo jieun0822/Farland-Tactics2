@@ -1,0 +1,659 @@
+﻿  academy.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\academy.cpp(62,8): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  airHockey.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(24,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(24,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(24,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(24,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(29,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(29,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(29,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(29,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(36,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(36,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(36,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(36,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(130,94): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(130,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(130,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(130,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(132,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(132,55): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(132,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(132,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(135,56): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(137,44): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(163,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(163,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(163,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\airHockey.cpp(163,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  animation.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  animationManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  animationTest.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  API_FrameWork.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(23,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(25,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(87,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(89,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(88,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(90,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\API_FrameWork.cpp(133,16): warning C4244: 'return': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\API_FrameWork.cpp(204,8): warning C4101: 'hMenu' :참조되지 않은 지역 변수입니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\API_FrameWork.cpp(204,15): warning C4101: 'hPopup' :참조되지 않은 지역 변수입니다.
+  battleMap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(87,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(89,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  battleMap_monster.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(123,26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(140,98): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(140,86): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(141,35): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(154,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(171,89): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(171,80): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(172,29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(285,45): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_monster.cpp(762,9): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  battleMap_player.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(87,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(89,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(52,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(52,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(72,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(72,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(123,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(123,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(263,12): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(609,21): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(610,20): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(653,21): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(654,20): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(699,43): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.cpp(699,35): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BossMap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(87,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(89,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(88,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(90,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  bossMap_monster.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(129,89): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(129,79): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(130,28): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(145,23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(162,89): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(162,80): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(163,29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(180,25): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(197,95): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(197,84): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(198,33): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(427,80): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(428,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(445,33): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(515,30): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(533,42): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(718,36): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(735,36): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_monster.cpp(1305,9): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  bossMap_player.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(87,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(89,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(88,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(90,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(52,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(52,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(72,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(72,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(123,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(123,21): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(263,12): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(609,21): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(610,20): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(653,21): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(654,20): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(699,43): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.cpp(699,35): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ending.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(25,70): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(25,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(26,70): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(26,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(27,70): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(27,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(29,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(29,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(30,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(30,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(31,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(31,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(32,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(32,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(33,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(33,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(34,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(34,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(35,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(35,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(36,71): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(36,60): warning C4244: '인수': 'double'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(112,22): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Ending.cpp(113,22): warning C4244: '-=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  intro.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  park.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(23,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(25,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(48,64): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(49,65): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(71,26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(72,26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(79,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(80,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(358,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(368,56): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(378,60): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(964,13): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1029,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1030,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1215,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1216,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1217,29): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1259,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1260,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1261,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1303,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1304,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1305,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1347,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1348,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1349,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1392,23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1393,23): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\park.cpp(1135,8): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  bullet.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(46,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(46,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(60,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(60,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(130,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(130,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(143,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(143,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(214,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(214,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(225,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bullet.cpp(225,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  camel.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  effect.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  effectManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  effectTest.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  enemy.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  enemyManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\enemyManager.cpp(79,31): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\enemyManager.cpp(78,40): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\enemyManager.cpp(77,73): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\enemyManager.cpp(77,35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  equipStore.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(447,164): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(448,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(449,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(450,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(451,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(452,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(453,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\equipStore.cpp(454,165): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  gameNode.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\gameNode.cpp(106,6): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\gameNode.cpp(105,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  Guild.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  Hotel.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  HotelNight.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\HotelNight.cpp(65,12): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\HotelNight.cpp(108,44): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\HotelNight.cpp(108,40): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  image.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(113,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(155,28): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(236,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(274,18): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(275,18): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(284,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(376,56): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(523,49): warning C4267: '-=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(526,29): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(539,48): warning C4267: '-=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(542,31): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(589,49): warning C4267: '-=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(592,29): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(605,48): warning C4267: '-=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(608,31): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(630,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(630,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(635,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(635,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(640,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(640,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.cpp(88,108): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.cpp(142,6): warning C4244: '인수': 'const float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Input.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  IsoMap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\IsoMap.cpp(204,51): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  itemStore.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(3,9): warning C4616: #pragma warning: 경고 번호 '2664'은(는) 올바른 컴파일러 경고가 아닙니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(452,161): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(453,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(454,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(455,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(456,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(457,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(458,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(459,162): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(498,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(499,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(500,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(501,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(502,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(503,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(504,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\itemStore.cpp(505,147): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  loadiingTest.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  loading.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(50,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(51,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(90,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(91,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(250,56): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(250,49): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(256,61): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(256,54): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(262,54): warning C4244: '인수': 'unsigned __int64'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\loading.cpp(262,24): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mainGame.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(23,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(25,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(87,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\battleMap_player.h(89,38): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(88,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\bossMap_player.h(90,39): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mapTool.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  minimap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\minimap.cpp(22,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\minimap.cpp(22,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\minimap.cpp(99,76): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\minimap.cpp(99,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\minimap.cpp(106,77): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\minimap.cpp(106,58): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  minion.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  pixelCollision.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(23,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(23,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(25,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(39,15): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(43,67): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(51,11): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(55,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\pixelCollision.cpp(55,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(23,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.h(25,41): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.cpp(74,65): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Player.cpp(74,48): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.cpp(189): warning C4715: 'image::init': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  progressBar.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(15,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(16,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(18,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(18,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(31,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(32,7): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(34,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(34,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\progressBar.cpp(74,37): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  restaurant.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  rocket.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(95,28): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(96,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(106,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(107,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(108,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(109,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(118,20): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(119,16): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(120,21): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(121,21): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(106,18): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(107,18): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(108,18): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(109,18): error C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(132,61): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\rocket.cpp(132,43): warning C4244: '인수': 'float'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  scene1.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  scene2.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  sceneManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  soundManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  soundTest.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  SubIsoMap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  tank.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(72,57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(78,15): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(79,14): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(98,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(98,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(103,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(103,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(108,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(108,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(113,36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(113,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(163,19): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(168,19): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(173,18): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(178,18): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(186,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(186,31): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(222,28): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(257,28): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\tank.cpp(212,7): warning C4101: 'rc' :참조되지 않은 지역 변수입니다.
+  tankGameScene.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  tankMap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  timeManager.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\timeManager.cpp(52,44): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\timeManager.cpp(56,45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\timeManager.cpp(59,45): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  timer.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  Title.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Title.cpp(114,37): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  townMap.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  townMapNight.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+  txtData.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\txtData.cpp(51,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\txtData.cpp(87,10): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\txtData.cpp(91,24): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  UnitList.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(97,149): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(97,143): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(97,107): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(101,149): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(101,143): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(101,107): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1253,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1264,197): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1281,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1292,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1310,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1321,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1338,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1349,196): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1741,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1746,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1751,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1756,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1761,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1766,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1774,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1779,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1784,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1789,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1794,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1799,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1807,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1812,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1817,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1822,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1827,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\UnitList.cpp(1832,182): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  utils.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\utils.cpp(21,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Window.cpp
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(91,50): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\imageManager.h(25,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\godsu\Desktop\복습\수업_API\프로젝트_조별\최종본\Window.cpp(155,3): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+  코드를 생성하고 있습니다...
